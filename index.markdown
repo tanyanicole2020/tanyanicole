@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## &nbsp;
+## Seeking a Long Term Opportunity
 
 ## Western Massachusetts/Greater Springfield Area
 
