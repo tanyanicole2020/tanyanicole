@@ -5,13 +5,20 @@
 layout: home
 ---
 
-## Seeking a Long Term Opportunity
+Welcome to my site.
 
-## Western Massachusetts/Greater Springfield Area
+&nbsp; &nbsp; &nbsp;My name is Tanya and I live in the Western Massachusetts area. &nbsp;I'm currently in the market for a new job. I have a bachelors degree in Business, I'm quick to learn, and have been managing the Payment and Leasing office for Moove In Self Storage ([moovein.com](http://mooving.com/){: target="_blank" rel="noopener"}) for the past year in Easthampton Ma.
 
-### tanyanicole2020@gmail.com
+Below are some of the tasks/skills that I have done in the past year:
 
-##### Military Experience
+1. Property Management
+2. Customer Service
+3. QA
+4. Office Management
+
+&nbsp; &nbsp; &nbsp;I would really like to have some sort of remote tech oriented job. &nbsp;Possible a Software Quality Assurance position, customer tech support position, or something similar. If you wouldlike to contact me you can email me at:&nbsp;[tanyanicole2020@gmail.com](mailto:tanyanicole2020@gmail.com)
+
+#### Military Experience
 
 * Accelerated learning,
 * Curve Leadership,
