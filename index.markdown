@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my site. You can find my resume here.
+Yes
