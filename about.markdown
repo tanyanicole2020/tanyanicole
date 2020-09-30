@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is my site
+Eccentric, Creative, Organized, Detailed Oriented, Positive, Down to Earth, Integrity, Motivated, Independent, Articulate, Analytical, Strategic, Efficient, Seeks improvement, Thrifty, High Energy
 
 &nbsp;
