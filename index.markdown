@@ -11,12 +11,11 @@ Welcome to my site.
 
 Below are some of the tasks/skills that I have done in the past year:
 
-1. Property Management
-2. Customer Service
-3. QA
-4. Office Management
+1. Customer Service: Returns Phone Calls, Sales, Payments, Accounts
+2. QA: Finds discrepancies and makes changes for effecientcy&nbsp;
+3. Office Management: Utilized Cisco WebX, Remote Desktop, Payment Software&nbsp;&nbsp;
 
-&nbsp; &nbsp; &nbsp;I would really like to have some sort of remote tech oriented job. &nbsp;Possible a Software Quality Assurance position, customer tech support position, or something similar. If you wouldlike to contact me you can email me at:&nbsp;[tanyanicole2020@gmail.com](mailto:tanyanicole2020@gmail.com)
+&nbsp; &nbsp; &nbsp;I would really like to have some sort of remote tech oriented job. &nbsp;Possible a Software Quality Assurance position, customer tech support position, or something similar. If you would like to contact me you can email me at:&nbsp;[tanyanicole2020@gmail.com](mailto:tanyanicole2020@gmail.com)
 
 #### Military Experience
 
