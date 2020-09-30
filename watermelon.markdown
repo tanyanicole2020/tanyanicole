@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /about/
+permalink: /resume/
 ---
 
-[Resume](/Resume 9:2020.pdf)&nbsp;
+[Resume](/Resume 9:2020.pdf){: target="_blank" rel="noopener"}&nbsp;
