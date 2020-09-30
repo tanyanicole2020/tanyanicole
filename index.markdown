@@ -5,19 +5,21 @@
 layout: home
 ---
 
-Western Massachusetts Greater Springfield Area
+Seeking an Opportunity to Excel in a Leadership Role while working on my Masters Degree.
 
-Seeking a Leadership Role while working on my Masters Degree.
+Western Massachusetts/Greater Springfield Area
 
-tanyanicole2020@gmail.com
+##### tanyanicole2020@gmail.com
 
-Military Experience
+#### &nbsp;
+
+#### Military Experience
 
 Accelerated learning, Curve Leadership, Teamwork, Diversity and inclusion in action, Efficient performance under pressure, Respect for procedures, Technology and globalization, Integrity, Conscious of health and safety standards, Triumph over adversity.
 
 25 Years in Customer Service. &nbsp;I have experience in Office Management, Retail Management, Key holder, Supervisor, Hospitality Operations, and Account Management.&nbsp;
 
-Retail & Office Management
+#### Retail & Office Management
 
 My most recent Job was establishing a company's presents from out of state.
 
