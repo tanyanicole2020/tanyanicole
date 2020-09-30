@@ -7,7 +7,7 @@ layout: home
 
 ## Seeking a Leadership Role while working on my Masters Degree
 
-Western Massachusetts/Greater Springfield Area
+# Western Massachusetts/Greater Springfield Area
 
 tanyanicole2020@gmail.com
 
