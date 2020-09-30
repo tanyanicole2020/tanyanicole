@@ -11,8 +11,6 @@ layout: home
 
 ### tanyanicole2020@gmail.com
 
-#### &nbsp;
-
 #### Military Experience
 
 * Accelerated learning,
