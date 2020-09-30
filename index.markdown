@@ -11,11 +11,22 @@ layout: home
 
 ### tanyanicole2020@gmail.com
 
+#### &nbsp;
+
 #### Military Experience
 
-Accelerated learning, Curve Leadership, Teamwork, Diversity and inclusion in action, Efficient performance under pressure, Respect for procedures, Technology and globalization, Integrity, Conscious of health and safety standards, Triumph over adversity.
+* Accelerated learning,
+* Curve Leadership,
+* Teamwork,
+* Diversity and inclusion in action,
+* Efficient performance under pressure,
+* Respect for procedures,
+* Technology and globalization,
+* Integrity,
+* Conscious of health and safety standards,
+* Triumph over adversity.
 
-25 Years in Customer Service. &nbsp;I have experience in Office Management, Retail Management, Key holder, Supervisor, Hospitality Operations, and Account Management.&nbsp;
+**25 Years in Customer Service**. &nbsp;I have experience in Office Management, Retail Management, Key holder, Supervisor, Hospitality Operations, and Account Management.&nbsp;
 
 #### Retail & Office Management
 
