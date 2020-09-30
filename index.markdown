@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is a test
+Welcome to my site. You can find my resume here.
