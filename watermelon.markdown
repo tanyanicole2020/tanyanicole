@@ -4,6 +4,4 @@ title: watermelon
 permalink: /about/
 ---
 
-Another link and page
-
-&nbsp;
+https://tanyanicole.com/Resume 9:2020.pdf
