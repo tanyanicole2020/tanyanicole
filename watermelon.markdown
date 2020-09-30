@@ -1,7 +1,6 @@
 ---
 layout: page
-title: watermelon
+title: Resume
 permalink: /about/
 ---
 
-https://tanyanicole.com/Resume 9:2020.pdf
