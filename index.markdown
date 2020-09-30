@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my site.
 
-&nbsp; &nbsp; &nbsp;My name is Tanya and I live in the Western Massachusetts area. &nbsp;I'm currently in the market for a new job. I have a bachelors degree in Business, I'm quick to learn, and have been managing the Payment and Leasing office for Moove In Self Storage ([moovein.com](http://mooving.com/){: target="_blank" rel="noopener"}) for the past year in Easthampton Ma.
+My name is Tanya and I live in the Western Massachusetts area. &nbsp;I'm currently in the market for a new job. I have a bachelors degree in Business, I'm quick to learn, and have been managing the Payment and Leasing office for[Moove In Self Storage](www.moovein.com ){: target="_blank" rel="noopener"}&nbsp;for the past year in Easthampton Ma.
 
 Below are some of the tasks/skills that I have done in the past year:
 
