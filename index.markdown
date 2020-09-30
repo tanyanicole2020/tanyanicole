@@ -17,20 +17,11 @@ Below are some of the tasks/skills that I have done in the past year:
 
 &nbsp; &nbsp; &nbsp;I would really like to have some sort of remote tech oriented job. &nbsp;Possible a Software Quality Assurance position, customer tech support position, or something similar. If you would like to contact me you can email me at:&nbsp;[tanyanicole2020@gmail.com](mailto:tanyanicole2020@gmail.com)
 
-#### Military Experience
+#### **25 Years in Customer Service**. &nbsp;
 
-* Accelerated learning,
-* Curve Leadership,
-* Teamwork,
-* Diversity and inclusion in action,
-* Efficient performance under pressure,
-* Respect for procedures,
-* Technology and globalization,
-* Integrity,
-* Conscious of health and safety standards,
-* Triumph over adversity.
+#### I have experience in Office Management, Retail Management, Key holder, Supervisor, Hospitality Operations, and Account Management.&nbsp;
 
-**25 Years in Customer Service**. &nbsp;I have experience in Office Management, Retail Management, Key holder, Supervisor, Hospitality Operations, and Account Management.&nbsp;
+&nbsp;
 
 ##### Retail & Office Management
 
