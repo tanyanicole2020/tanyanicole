@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Seeking a Leadership Role while working on my Masters Degree
+## &nbsp;
 
 ## Western Massachusetts/Greater Springfield Area
 
