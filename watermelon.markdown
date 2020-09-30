@@ -4,4 +4,4 @@ title: Photography
 permalink: /photos/
 ---
 
-[Resume](/Resume 9:2020.pdf){: target="_blank" rel="noopener"} &nbsp;
+![](/uploads/img-0375.JPG){: width="2448" height="3264"}&nbsp;&nbsp;
